@@ -40,7 +40,7 @@
 
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ExequielGonzalez)](https://github.com/ExequielGonzalez/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=faacu)](https://github.com/faacu/github-readme-stats)
 
 <br />
 <br />
