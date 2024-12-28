@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-#### :email: You can email me at [email](mailto:contact@facundovergara.com.ar)
+#### :email: You can email me at [email](mailto:contacto@facundovergara.com.ar)
 
 <br />
 
