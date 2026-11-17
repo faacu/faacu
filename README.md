@@ -43,7 +43,7 @@ Currently transitioning into remote international contractor roles, building rob
 *I build tools to solve complex architectural problems. Feel free to explore my repositories:*
 
 * **[polymarket-ev-bot](https://github.com/faacu/polymarket-ev-bot):** An asynchronous quantitative prediction market bot. Blends live RSS sentiment analysis via Gemini AI with order book mechanics to execute EV-positive trades using Bayesian inference and Fractional Kelly sizing.
-* **[vue-resilient-async](https://github.com/faacu/vue-resilient-async):** A robust Vue 3 composable implementing the SWR (Stale-While-Revalidate) pattern, automated exponential backoff retries, and AbortController request cancellation.
+* **[vue-resilient-fetch](https://github.com/faacu/vue-resilient-fetch):** A robust Vue 3 composable implementing the SWR (Stale-While-Revalidate) pattern, automated exponential backoff retries, and AbortController request cancellation.
 * **[node-pii-sanitizer](https://github.com/faacu/node-pii-sanitizer):** A Node.js Transform Stream for real-time redaction of Personally Identifiable Information (PII) in logging pipelines.
 
 ---
