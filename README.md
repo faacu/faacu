@@ -1,46 +1,55 @@
-### Hi there, I'm Facundo
+# 👨‍💻 Facundo Vergara
+**Senior Software Engineer | Full-Stack, AI Integrations & Quantitative Development**
+
+I am a Software Engineer with ~5 years of experience designing scalable web applications, autonomous trading agents, and AI-driven workflows. I specialize in bridging the gap between robust backend architectures (Node.js, Python, AWS) and high-performance frontends (Vue 3, Nuxt 4), with a strong focus on integrating Large Language Models (LLMs) into production environments.
+
+Currently transitioning into remote international contractor roles, building robust open-source tooling and SaaS platforms.
 
 ---
 
-## I'm an Fullstack Developer who loves programming
+### 🚀 What I'm currently working on
+- 🏗️ **ScopierAI:** Co-founder & Lead Developer of a SaaS platform utilizing Google Gemini AI and PERT methodology for automated software project estimation (Nuxt 4, Vue 3, Firebase, TypeScript).
+- 📈 **Quantitative AI Agents:** Engineering Bayesian probability trading bots for prediction markets using Python, asynchronous data ingestion, and Fractional Kelly risk management.
+- 📦 **Open Source Micro-Libraries:** Developing resilient architectural patterns (e.g., Vue 3 SWR composables, Node.js Redis rate-limiters and PII sanitizers).
 
+---
 
-- :office: I work as FullStack developer in an Startup, mainly with Vue.js and Node.js, but also with React.js.
-- :seedling: I love learning as much as I can
-- :dancers: I'm looking to collaborate with other developers
+### 🛠️ Tech Stack & Arsenal
 
-### Connect with me:
+**Architecture & Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-#### :email: You can email me at [email](mailto:contacto@facundovergara.com.ar)
+**Frontend & Mobile**  
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<br />
+**Cloud, AI & Infrastructure**  
+![Google Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-## Knowdleges
+---
 
-### Languages
+### 🏆 Featured Open-Source Work
+*I build tools to solve complex architectural problems. Feel free to explore my repositories:*
 
-- <img src="https://raw.githubusercontent.com/ashhitch/ISO-country-flags-icons/ada3cec9052f7de0901465c7a6a700638657a558/src/flags/svg/es.svg" width="22" height="22"> Native
+* **[polymarket-ev-bot](https://github.com/faacu/polymarket-ev-bot):** An asynchronous quantitative prediction market bot. Blends live RSS sentiment analysis via Gemini AI with order book mechanics to execute EV-positive trades using Bayesian inference and Fractional Kelly sizing.
+* **[vue-resilient-async](https://github.com/faacu/vue-resilient-async):** A robust Vue 3 composable implementing the SWR (Stale-While-Revalidate) pattern, automated exponential backoff retries, and AbortController request cancellation.
+* **[node-pii-sanitizer](https://github.com/faacu/node-pii-sanitizer):** A Node.js Transform Stream for real-time redaction of Personally Identifiable Information (PII) in logging pipelines.
 
-- <img  alt="English" width="22px" src="https://raw.githubusercontent.com/ashhitch/ISO-country-flags-icons/master/src/flags/png/us.png"/> B2 level
+---
 
-### Programing languages
+### 📫 Let's Connect
+Looking to discuss system design, quantitative finance, or remote opportunities?
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1280px-Vue.js_Logo_2.svg.png" width="30"> Vue.js
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1920px-Node.js_logo.svg.png" width="30"> Node.js
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" width="30"> React.js
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1920px-Firebase_Logo.svg.png" width="30"> Firebase
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="30"> Python
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/C_Sharp_Icon.png/640px-C_Sharp_Icon.png" width="30"> C#
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Java_Black_icon.svg/640px-Java_Black_icon.svg.png" width="30"> Java
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/640px-Kotlin_Icon.svg.png" width="30"> Kotlin
-
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1920px-LinkedIn_Logo.svg.png" width="200" height="40"> ](www.linkedin.com/in/facundovergara)
-
-
-<br />
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=faacu)](https://github.com/faacu/github-readme-stats)
-
-<br />
-<br />
+* ✉️ **Email:** contacto@facundovergara.com.ar *(replace with your real email if different)*
+* 🗣️ **Languages:** Spanish (Native) | English (B2 / Professional Working Proficiency)
