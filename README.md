@@ -51,5 +51,5 @@ Currently transitioning into remote international contractor roles, building rob
 ### 📫 Let's Connect
 Looking to discuss system design, quantitative finance, or remote opportunities?
 
-* ✉️ **Email:** contacto@facundovergara.com.ar *(replace with your real email if different)*
+* ✉️ **Email:** contacto@facundovergara.com.ar
 * 🗣️ **Languages:** Spanish (Native) | English (B2 / Professional Working Proficiency)
