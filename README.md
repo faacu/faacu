@@ -8,7 +8,7 @@ Currently transitioning into remote international contractor roles, building rob
 ---
 
 ### 🚀 What I'm currently working on
-- 🏗️ **ScopierAI:** Co-founder & Lead Developer of a SaaS platform utilizing Google Gemini AI and PERT methodology for automated software project estimation (Nuxt 4, Vue 3, Firebase, TypeScript).
+- 🏗️ **AI-Driven SaaS Platform (Stealth Mode):** Founder & Lead Developer architecting a multi-tenant B2B platform integrating Google Gemini LLMs for automated workflow analysis. Built with Nuxt 4, Vue 3, TypeScript, Tailwind CSS, and Firebase.
 - 📈 **Quantitative AI Agents:** Engineering Bayesian probability trading bots for prediction markets using Python, asynchronous data ingestion, and Fractional Kelly risk management.
 - 📦 **Open Source Micro-Libraries:** Developing resilient architectural patterns (e.g., Vue 3 SWR composables, Node.js Redis rate-limiters and PII sanitizers).
 
